@@ -1,0 +1,13 @@
+﻿  TIMP_DZ1.cpp
+  node.cpp
+  tree.cpp
+C:\Users\KoRy3\source\repos\TIMP_DZ1\tree.cpp(68,42): warning C4309: =: усечение константного значения
+C:\Users\KoRy3\source\repos\TIMP_DZ1\tree.cpp(69,38): warning C4309: =: усечение константного значения
+C:\Users\KoRy3\source\repos\TIMP_DZ1\tree.cpp(70,28): warning C4309: =: усечение константного значения
+C:\Users\KoRy3\source\repos\TIMP_DZ1\tree.cpp(73,72): warning C4309: =: усечение константного значения
+C:\Users\KoRy3\source\repos\TIMP_DZ1\tree.cpp(77,72): warning C4309: =: усечение константного значения
+C:\Users\KoRy3\source\repos\TIMP_DZ1\tree.cpp(104,55): warning C4309: =: усечение константного значения
+  tree_Iterator.cpp
+  Создание кода...
+C:\Users\KoRy3\source\repos\TIMP_DZ1\tree.cpp(105,48): warning C4309: =: усечение константного значения
+  TIMP_DZ1.vcxproj -> C:\Users\KoRy3\source\repos\TIMP_DZ1\Debug\TIMP_DZ1.exe
